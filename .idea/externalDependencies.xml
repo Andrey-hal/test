@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="AngularJS" />
+    <plugin id="com.intellij.configurationScript" />
+    <plugin id="com.intellij.css" />
+    <plugin id="com.intellij.platform.images" />
+    <plugin id="com.jetbrains.changeReminder" />
+    <plugin id="org.coffeescript" />
+  </component>
+</project>
